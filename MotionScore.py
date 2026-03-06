@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+# test comment
 def ComputeMotionScores(video_path):
 
     cap = cv2.VideoCapture(video_path)
